@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_Get All Categories Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db24bd6e-f51f-475d-bfe6-ef5347a3d773</testCaseGuid>
+</TestCaseEntity>

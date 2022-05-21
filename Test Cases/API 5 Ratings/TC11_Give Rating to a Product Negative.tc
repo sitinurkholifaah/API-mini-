@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11_Give Rating to a Product Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68b03c02-9c3b-4b3b-917e-9c63b69a37af</testCaseGuid>
+</TestCaseEntity>
